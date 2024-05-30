@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+C:\Sonya\TetrisGit\My project (2D)
+=======
+E:\Tetris\My project (2D)
+>>>>>>> 8f322c2fe595150e8058a309da2f0dbf76e48ffa

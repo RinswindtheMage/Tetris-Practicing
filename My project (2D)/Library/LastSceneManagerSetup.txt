@@ -1,0 +1,9 @@
+sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Scenes/Menu.unity
+=======
+- path: Assets/Scenes/Tetris.unity
+>>>>>>> 8f322c2fe595150e8058a309da2f0dbf76e48ffa
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
